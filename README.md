@@ -7,30 +7,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Meu Perfil GitHub</title>
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 20px;
-    }
-    h1, h2 {
-        color: #333;
-    }
-    .badge {
-        display: inline-block;
-        padding: 5px 10px;
-        margin: 5px;
-        border-radius: 5px;
-        color: white;
-        font-size: 14px;
-    }
-    .contact a {
-        margin-right: 10px;
-        text-decoration: none;
-        color: #0366d6;
-    }
-    .contact a:hover {
-        text-decoration: underline;
-    }
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+h1, h2 {
+    color: #333;
+}
+.badge {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    color: white;
+    font-size: 14px;
+}
+.contact a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #0366d6;
+}
+.contact a:hover {
+    text-decoration: underline;
+}
 </style>
 </head>
 <body>
