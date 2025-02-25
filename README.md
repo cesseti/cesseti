@@ -1,74 +1,46 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Perfil GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            margin: 5px;
-            border-radius: 5px;
-            color: white;
-            font-size: 14px;
-        }
-        .contact a {
-            margin-right: 10px;
-            text-decoration: none;
-            color: #0366d6;
-        }
-        .contact a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
+# Hi there 👋
 
-<h1>Bem-vindo ao meu perfil GitHub! 👋</h1>
+## Bem-vindo ao meu perfil GitHub!
 
-<h2>Sobre Mim</h2>
-<ul>
-    <li><strong>Formação:</strong> Desenvolvedor FullStack</li>
-    <li><strong>Atualmente:</strong> Focado em Backend e Cloud Computing</li>
-    <li><strong>Habilidades:</strong> Python, AWS, Linux, SQL, Git/GitHub, PHP, Docker, Spark</li>
-    <li><strong>Idiomas:</strong> Português (nativo), Inglês (intermediário)</li>
-</ul>
+### Sobre Mim
 
-<h2>Tecnologias e Ferramentas</h2>
-<div>
-    <span class="badge" style="background-color: #3776AB;">Python</span>
-    <span class="badge" style="background-color: #232F3E;">AWS</span>
-    <span class="badge" style="background-color: #FCC624;">Linux</span>
-    <span class="badge" style="background-color: #4479A1;">SQL</span>
-    <span class="badge" style="background-color: #F05032;">Git</span>
-    <span class="badge" style="background-color: #181717;">GitHub</span>
-    <span class="badge" style="background-color: #777BB4;">PHP</span>
-    <span class="badge" style="background-color: #2496ED;">Docker</span>
-    <span class="badge" style="background-color: #E25A1C;">Spark</span>
-</div>
+- **Formação:** Desenvolvedor FullStack
+- **Atualmente:** Focado em Backend e Cloud Computing
+- **Habilidades:** Python, AWS, Linux, SQL, Git/GitHub, PHP, Docker, Spark
+- **Idiomas:** Português (nativo), Inglês (intermediário)
 
-<h2>Estatísticas do GitHub</h2>
-<p>Total Stars Earned: <strong>6</strong></p>
-<p>Total Commits: <strong>165</strong></p>
-<p>Total PRs: <strong>6</strong></p>
-<p>Total Issues: <strong>0</strong></p>
-<p>Contributed to (last year): <strong>4</strong></p>
+### Tecnologias e Ferramentas
 
-<h2>Entre em Contato</h2>
-<div class="contact">
-    <a href="https://www.linkedin.com/in/carlos-alberto-alves-ribeiro-0b5b34278" target="_blank">LinkedIn</a>
-    <a href="mailto:carlosribeiro.cr146@gmail.com">Email</a>
-    <a href="https://www.instagram.com/clsabt/" target="_blank">Instagram</a>
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 
-</body>
-</html>
+### Estatísticas do GitHub
+
+![Total Stars Earned](https://img.shields.io/badge/Total%20Stars-6-blue)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-165-green)
+![Total PRs](https://img.shields.io/badge/Total%20PRs-6-orange)
+![Total Issues](https://img.shields.io/badge/Total%20Issues-0-red)
+![Contributed to (last year)](https://img.shields.io/badge/Contributed%20to-4-blueviolet)
+
+### Projetos Destacados
+
+- **Sistema de Análise de Dados com Spark:** Desenvolvimento de um pipeline de processamento de dados em larga escala utilizando Apache Spark.
+- **Automação de Infraestrutura com AWS:** Implementação de scripts em Python para automação de tarefas na AWS.
+- **Aplicação Web com PHP e Docker:** Criação de uma aplicação web com integração contínua usando Docker.
+
+### Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-alves-ribeiro-0b5b34278)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:carlosribeiro.cr146@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/clsabt/)
+
+---
+
+✨ **Obrigado por visitar meu perfil!** ✨
