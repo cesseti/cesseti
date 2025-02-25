@@ -1,37 +1,35 @@
-## Hi there 👋
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Meu Perfil GitHub</title>
-<style>
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-}
-h1, h2 {
-    color: #333;
-}
-.badge {
-    display: inline-block;
-    padding: 5px 10px;
-    margin: 5px;
-    border-radius: 5px;
-    color: white;
-    font-size: 14px;
-}
-.contact a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: #0366d6;
-}
-.contact a:hover {
-    text-decoration: underline;
-}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Perfil GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .badge {
+            display: inline-block;
+            padding: 5px 10px;
+            margin: 5px;
+            border-radius: 5px;
+            color: white;
+            font-size: 14px;
+        }
+        .contact a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #0366d6;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
 </head>
 <body>
 
@@ -67,9 +65,9 @@ h1, h2 {
 
 <h2>Entre em Contato</h2>
 <div class="contact">
-    <a href="www.linkedin.com/in/carlos-alberto-alves-ribeiro-0b5b34278" target="_blank">LinkedIn</a>
-    <a href="carlosribeiro.cr146@gmail.com">Email</a>
-    <a href="[https://www.instagram.com/seu-instagram/](https://www.instagram.com/clsabt/)" target="_blank">Instagram</a>
+    <a href="https://www.linkedin.com/in/carlos-alberto-alves-ribeiro-0b5b34278" target="_blank">LinkedIn</a>
+    <a href="mailto:carlosribeiro.cr146@gmail.com">Email</a>
+    <a href="https://www.instagram.com/clsabt/" target="_blank">Instagram</a>
 </div>
 
 </body>
