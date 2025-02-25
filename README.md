@@ -27,12 +27,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 
-## Projetos Destacados
-
-- **Sistema de Análise de Dados com Spark:** Desenvolvimento de um pipeline de processamento de dados em larga escala utilizando Apache Spark.
-- **Automação de Infraestrutura com AWS:** Implementação de scripts em Python para automação de tarefas na AWS.
-- **Aplicação Web com PHP e Docker:** Criação de uma aplicação web com integração contínua usando Docker.
-
 ## Entre em Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
