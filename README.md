@@ -1,15 +1,21 @@
-# Hi there 👋
+# Bem-vindo ao meu perfil GitHub! 👋
 
-## Bem-vindo ao meu perfil GitHub!
-
-### Sobre Mim
+## Sobre Mim
 
 - **Formação:** Desenvolvedor FullStack
 - **Atualmente:** Focado em Backend e Cloud Computing
 - **Habilidades:** Python, AWS, Linux, SQL, Git/GitHub, PHP, Docker, Spark
 - **Idiomas:** Português (nativo), Inglês (intermediário)
 
-### Tecnologias e Ferramentas
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesseti&layout=compact&theme=dark)
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesseti&show_icons=true&theme=dark)
+
+## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
@@ -21,25 +27,17 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
 
-### Estatísticas do GitHub
-
-![Total Stars Earned](https://img.shields.io/badge/Total%20Stars-6-blue)
-![Total Commits](https://img.shields.io/badge/Total%20Commits-165-green)
-![Total PRs](https://img.shields.io/badge/Total%20PRs-6-orange)
-![Total Issues](https://img.shields.io/badge/Total%20Issues-0-red)
-![Contributed to (last year)](https://img.shields.io/badge/Contributed%20to-4-blueviolet)
-
-### Projetos Destacados
+## Projetos Destacados
 
 - **Sistema de Análise de Dados com Spark:** Desenvolvimento de um pipeline de processamento de dados em larga escala utilizando Apache Spark.
 - **Automação de Infraestrutura com AWS:** Implementação de scripts em Python para automação de tarefas na AWS.
 - **Aplicação Web com PHP e Docker:** Criação de uma aplicação web com integração contínua usando Docker.
 
-### Entre em Contato
+## Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-alberto-alves-ribeiro-0b5b34278)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:carlosribeiro.cr146@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/clsabt/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram/)
 
 ---
 
