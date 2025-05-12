@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- **Formação:** Desenvolvedor FullStack
+- **Formação:** Desenvolvedor Back End e Engenheiro de dados
 - **Atualmente:** Focado em Backend e Cloud Computing
 - **Habilidades:** Python, AWS, Linux, SQL, Git/GitHub, PHP, Docker, Spark
 - **Idiomas:** Português (nativo), Inglês (intermediário)
@@ -29,9 +29,9 @@
 
 ## Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosalberto146/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:carlosribeiro.cr146@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/clsabt/)
 
 ---
 
